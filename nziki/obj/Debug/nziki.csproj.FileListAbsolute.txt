@@ -1,0 +1,66 @@
+C:\Users\kily-dieuveille.nziki-malonga\source\repos\nziki\nziki\bin\Debug\nziki.exe.config
+C:\Users\kily-dieuveille.nziki-malonga\source\repos\nziki\nziki\bin\Debug\nziki.exe
+C:\Users\kily-dieuveille.nziki-malonga\source\repos\nziki\nziki\bin\Debug\nziki.pdb
+C:\Users\kily-dieuveille.nziki-malonga\source\repos\nziki\nziki\obj\Debug\nziki.csproj.AssemblyReference.cache
+C:\Users\kily-dieuveille.nziki-malonga\source\repos\nziki\nziki\obj\Debug\nziki.Properties.Resources.resources
+C:\Users\kily-dieuveille.nziki-malonga\source\repos\nziki\nziki\obj\Debug\nziki.csproj.GenerateResource.cache
+C:\Users\kily-dieuveille.nziki-malonga\source\repos\nziki\nziki\obj\Debug\nziki.csproj.CoreCompileInputs.cache
+C:\Users\kily-dieuveille.nziki-malonga\source\repos\nziki\nziki\obj\Debug\nziki.exe
+C:\Users\kily-dieuveille.nziki-malonga\source\repos\nziki\nziki\obj\Debug\nziki.pdb
+C:\Users\kily-dieuveille.nziki-malonga\source\repos\nziki\nziki\obj\Debug\nziki.Form1.resources
+H:\Travail\IHM\nziki\nziki\bin\Debug\nziki.exe.config
+H:\Travail\IHM\nziki\nziki\bin\Debug\nziki.exe
+H:\Travail\IHM\nziki\nziki\bin\Debug\nziki.pdb
+H:\Travail\IHM\nziki\nziki\obj\Debug\nziki.csproj.AssemblyReference.cache
+H:\Travail\IHM\nziki\nziki\obj\Debug\nziki.Form1.resources
+H:\Travail\IHM\nziki\nziki\obj\Debug\nziki.Properties.Resources.resources
+H:\Travail\IHM\nziki\nziki\obj\Debug\nziki.csproj.GenerateResource.cache
+H:\Travail\IHM\nziki\nziki\obj\Debug\nziki.csproj.CoreCompileInputs.cache
+H:\Travail\IHM\nziki\nziki\obj\Debug\nziki.exe
+H:\Travail\IHM\nziki\nziki\obj\Debug\nziki.pdb
+C:\Users\Camille\Downloads\delannoyNziki\nziki\bin\Debug\nziki.exe.config
+C:\Users\Camille\Downloads\delannoyNziki\nziki\bin\Debug\nziki.exe
+C:\Users\Camille\Downloads\delannoyNziki\nziki\bin\Debug\nziki.pdb
+C:\Users\Camille\Downloads\delannoyNziki\nziki\obj\Debug\nziki.csproj.AssemblyReference.cache
+C:\Users\Camille\Downloads\delannoyNziki\nziki\obj\Debug\nziki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Camille\Downloads\delannoyNziki\nziki\obj\Debug\nziki.Form1.resources
+C:\Users\Camille\Downloads\delannoyNziki\nziki\obj\Debug\nziki.Properties.Resources.resources
+C:\Users\Camille\Downloads\delannoyNziki\nziki\obj\Debug\nziki.csproj.GenerateResource.cache
+C:\Users\Camille\Downloads\delannoyNziki\nziki\obj\Debug\nziki.csproj.CoreCompileInputs.cache
+C:\Users\Camille\Downloads\delannoyNziki\nziki\obj\Debug\nziki.exe
+C:\Users\Camille\Downloads\delannoyNziki\nziki\obj\Debug\nziki.pdb
+C:\Users\Camille\Documents\HEI4\ihm\delannoyNzikiv3\nziki\obj\Debug\nziki.csproj.AssemblyReference.cache
+C:\Users\Camille\Documents\HEI4\ihm\delannoyNzikiv3\nziki\obj\Debug\nziki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Camille\Documents\HEI4\ihm\delannoyNzikiv3\nziki\obj\Debug\nziki.Form1.resources
+C:\Users\Camille\Documents\HEI4\ihm\delannoyNzikiv3\nziki\obj\Debug\nziki.Form2.resources
+C:\Users\Camille\Documents\HEI4\ihm\delannoyNzikiv3\nziki\obj\Debug\nziki.Properties.Resources.resources
+C:\Users\Camille\Documents\HEI4\ihm\delannoyNzikiv3\nziki\obj\Debug\nziki.csproj.GenerateResource.cache
+C:\Users\Camille\Documents\HEI4\ihm\delannoyNzikiv3\nziki\obj\Debug\nziki.csproj.CoreCompileInputs.cache
+C:\Users\Camille\Documents\HEI4\ihm\delannoyNzikiv3\nziki\obj\Debug\nziki.exe
+C:\Users\Camille\Documents\HEI4\ihm\delannoyNzikiv3\nziki\obj\Debug\nziki.pdb
+C:\Users\Camille\Documents\HEI4\ihm\delannoyNzikiv3\nziki\bin\Debug\nziki.exe.config
+C:\Users\Camille\Documents\HEI4\ihm\delannoyNzikiv3\nziki\bin\Debug\nziki.exe
+C:\Users\Camille\Documents\HEI4\ihm\delannoyNzikiv3\nziki\bin\Debug\nziki.pdb
+C:\Users\NZIKI Dieuveille\OneDrive - JUNIA Grande école d'ingénieurs\IHM\delannoyNzikiv3\nziki\bin\Debug\nziki.exe.config
+C:\Users\NZIKI Dieuveille\OneDrive - JUNIA Grande école d'ingénieurs\IHM\delannoyNzikiv3\nziki\bin\Debug\nziki.exe
+C:\Users\NZIKI Dieuveille\OneDrive - JUNIA Grande école d'ingénieurs\IHM\delannoyNzikiv3\nziki\bin\Debug\nziki.pdb
+C:\Users\NZIKI Dieuveille\OneDrive - JUNIA Grande école d'ingénieurs\IHM\delannoyNzikiv3\nziki\obj\Debug\nziki.csproj.AssemblyReference.cache
+C:\Users\NZIKI Dieuveille\OneDrive - JUNIA Grande école d'ingénieurs\IHM\delannoyNzikiv3\nziki\obj\Debug\nziki.Form2.resources
+C:\Users\NZIKI Dieuveille\OneDrive - JUNIA Grande école d'ingénieurs\IHM\delannoyNzikiv3\nziki\obj\Debug\nziki.Form1.resources
+C:\Users\NZIKI Dieuveille\OneDrive - JUNIA Grande école d'ingénieurs\IHM\delannoyNzikiv3\nziki\obj\Debug\nziki.Properties.Resources.resources
+C:\Users\NZIKI Dieuveille\OneDrive - JUNIA Grande école d'ingénieurs\IHM\delannoyNzikiv3\nziki\obj\Debug\nziki.csproj.GenerateResource.cache
+C:\Users\NZIKI Dieuveille\OneDrive - JUNIA Grande école d'ingénieurs\IHM\delannoyNzikiv3\nziki\obj\Debug\nziki.csproj.CoreCompileInputs.cache
+C:\Users\NZIKI Dieuveille\OneDrive - JUNIA Grande école d'ingénieurs\IHM\delannoyNzikiv3\nziki\obj\Debug\nziki.exe
+C:\Users\NZIKI Dieuveille\OneDrive - JUNIA Grande école d'ingénieurs\IHM\delannoyNzikiv3\nziki\obj\Debug\nziki.pdb
+C:\Users\Camille\Documents\delannoyNzikiv3\nziki\bin\Debug\nziki.exe.config
+C:\Users\Camille\Documents\delannoyNzikiv3\nziki\bin\Debug\nziki.exe
+C:\Users\Camille\Documents\delannoyNzikiv3\nziki\bin\Debug\nziki.pdb
+C:\Users\Camille\Documents\delannoyNzikiv3\nziki\obj\Debug\nziki.csproj.AssemblyReference.cache
+C:\Users\Camille\Documents\delannoyNzikiv3\nziki\obj\Debug\nziki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Camille\Documents\delannoyNzikiv3\nziki\obj\Debug\nziki.Form2.resources
+C:\Users\Camille\Documents\delannoyNzikiv3\nziki\obj\Debug\nziki.Form1.resources
+C:\Users\Camille\Documents\delannoyNzikiv3\nziki\obj\Debug\nziki.Properties.Resources.resources
+C:\Users\Camille\Documents\delannoyNzikiv3\nziki\obj\Debug\nziki.csproj.GenerateResource.cache
+C:\Users\Camille\Documents\delannoyNzikiv3\nziki\obj\Debug\nziki.csproj.CoreCompileInputs.cache
+C:\Users\Camille\Documents\delannoyNzikiv3\nziki\obj\Debug\nziki.exe
+C:\Users\Camille\Documents\delannoyNzikiv3\nziki\obj\Debug\nziki.pdb
